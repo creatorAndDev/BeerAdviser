@@ -3,5 +3,6 @@
     <string name="app_name">Beer Adviser</string>
     <string name="action_settings">Setting</string>
     <string name="find_beer">Find Beer</string>
+
     <string name="brands"></string>
 </resources>
