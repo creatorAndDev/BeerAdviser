@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:entries="@array/beer_colors"
         android:layout_marginTop="37dp" />
 
     <Button
@@ -21,7 +22,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/color"
         android:layout_alignLeft="@+id/color"
-        android:text="Button" />
+        android:text="@string/find_beer"
+        android:onClick="onClickFindBeer"/>
 
     <TextView
         android:layout_width="wrap_content"
