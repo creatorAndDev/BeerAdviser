@@ -3,7 +3,7 @@
     <string name="app_name">Beer Adviser</string>
     <string name="action_settings">Setting</string>
     <string name="find_beer">Find Beer</string>
-    <string name="brands">Brands</string>
+    <string name="brands"></string>
 
     <!--massive-->
     <string-array name="beer_colors">
