@@ -29,7 +29,7 @@
         android:layout_alignLeft="@+id/find_beer"
         android:layout_below="@+id/find_beer"
         android:layout_marginTop="18dp"
-        android:text="Hello Android!"
+        android:text="@string/brands"
         android:id="@+id/brands"/>
 
 </RelativeLayout>
